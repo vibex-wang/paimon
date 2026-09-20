@@ -1,0 +1,14 @@
+paimon-core/src/test/java/org/apache/paimon/io/RollingFileWriterTest.java
+  h_8c0ffb5cf0720e 26-28,47-52,55-56,136-328,346-382
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "f6f2212eb02832950aca211ecf03070517e72707",
+  "prompts": {},
+  "humans": {
+    "h_8c0ffb5cf0720e": {
+      "author": "Yu Hao <hao_y@trip.com>"
+    }
+  }
+}
