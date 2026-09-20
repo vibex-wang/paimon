@@ -1,0 +1,29 @@
+paimon-full-text/src/test/java/org/apache/paimon/fulltext/index/NativeFullTextGlobalIndexTest.java
+  s_f185ee73d09ed8::t_e42a2d5b0dc509 440-504,510,514,516-549
+  s_f185ee73d09ed8::t_85d31b7e303e37 505-509,513,515
+  s_f185ee73d09ed8::t_d23ad7a3fc4bac 511-512
+paimon-full-text/src/test/java/org/apache/paimon/fulltext/index/JavaPyNativeFullTextE2ETest.java
+  s_f185ee73d09ed8::t_b06b96a21575b6 129-142,144-152
+  s_f185ee73d09ed8::t_1be03be647d7c1 143,153
+  s_f185ee73d09ed8::t_c6ae9ee1f73c12 373-387
+  s_f185ee73d09ed8::t_a36a470cc8bf54 275-372
+paimon-python/pypaimon/tests/e2e/java_py_read_write_test.py
+  s_f185ee73d09ed8::t_186fecaa21ffb8 1305-1352,1354,1356-1359,1362,1364,1366-1369,1372-1409
+  s_f185ee73d09ed8::t_7252d3f1627ae4 1353,1355,1360-1361,1363,1365,1370-1371
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "7e4b7f9d66059cb9433e9acf71a304651000f66b",
+  "prompts": {},
+  "sessions": {
+    "s_f185ee73d09ed8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3ed05f06-943c-41a0-ba3a-b61280dec23f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yiwang51 <yiwang51@trip.com>"
+    }
+  }
+}

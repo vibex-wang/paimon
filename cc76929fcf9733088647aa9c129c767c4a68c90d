@@ -1,0 +1,26 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_7d3df0b183b9ff::t_4a1531be0d1d8b 95-98
+  s_7d3df0b183b9ff::t_a6bd0385a224f4 91-94,99
+  s_7d3df0b183b9ff::t_56921f44b6ed1a 558
+  s_7d3df0b183b9ff::t_cd3409a96ccddb 21
+  s_7d3df0b183b9ff::t_44cf3552232059 621
+  s_7d3df0b183b9ff::t_7899eb002cb01e 23
+paimon-python/pypaimon/tests/benchmark_vector_search_standalone.py
+  s_7d3df0b183b9ff::t_5a2ebea7429b2f 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "cc76929fcf9733088647aa9c129c767c4a68c90d",
+  "prompts": {},
+  "sessions": {
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    }
+  }
+}

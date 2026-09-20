@@ -1,0 +1,21 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_7d3df0b183b9ff::t_44cf3552232059 617
+  s_7d3df0b183b9ff::t_a6bd0385a224f4 90-95
+  s_7d3df0b183b9ff::t_56921f44b6ed1a 554
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "a3ffb6d31507a66370553f6851d46f1ad6e61f2c",
+  "prompts": {},
+  "sessions": {
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yiwang51 <yiwang51@trip.com>"
+    }
+  }
+}

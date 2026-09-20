@@ -1,0 +1,27 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_6e433950f8988a::t_c32ac2b2b04c93 1053-1057
+  s_6e433950f8988a::t_8370709d37e2de 1119
+  s_6e433950f8988a::t_db8836acc92a02 1039
+  s_6e433950f8988a::t_f7ebc19e51fb4b 1145,1164
+  s_6e433950f8988a::t_53c6bd446673c9 1046-1052,1058-1059
+  s_6e433950f8988a::t_4e687fce08437f 992-994
+  s_6e433950f8988a::t_ad22136be75c34 1095-1099
+paimon-python/pypaimon/tests/vector_search_filter_test.py
+  s_6e433950f8988a::t_1b67ebba1f5d1d 3674-3743
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "79c960776cef3635ea1666172174aa7d0acf41ec",
+  "prompts": {},
+  "sessions": {
+    "s_6e433950f8988a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c0a9581-7033-4bc7-b0b1-fd44e4833e1f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Yi Wang <connorwang@live.com>"
+    }
+  }
+}

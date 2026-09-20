@@ -1,0 +1,27 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_7d3df0b183b9ff::t_ae81d7103c3661 669,673-676,679,682-697
+  s_7d3df0b183b9ff::t_9b91056a28043f 1047-1145
+paimon-python/pypaimon/tests/benchmark_small_n_crossover.py
+  s_7d3df0b183b9ff::t_0aa3a5012fc938 18-186
+  s_7d3df0b183b9ff::t_a1cc5798bbe2b9 1-17
+paimon-python/pypaimon/tests/vector_search_filter_test.py
+  s_7d3df0b183b9ff::t_782f93197cf437 2913,2915-2916,2920
+  s_7d3df0b183b9ff::t_f26e5539fcb651 3570-3585,3587-3616,3618-3641,3643-3661,3663-3674
+  s_7d3df0b183b9ff::t_75dba585f4362b 3586,3617,3642,3662
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "a160bddf9b54eeb71b6436e78e008574ce256350",
+  "prompts": {},
+  "sessions": {
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
