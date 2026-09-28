@@ -1,0 +1,19 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_4bc55070824910::t_c2cd5812af9727 830
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "3905aa1f5dcf9af4b5ac39f4a721b9cc083bea86",
+  "prompts": {},
+  "sessions": {
+    "s_4bc55070824910": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e330bdd1-0ee9-45ad-8b49-baaaf4aad5d9",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Yi Wang <connorwang@live.com>"
+    }
+  }
+}
