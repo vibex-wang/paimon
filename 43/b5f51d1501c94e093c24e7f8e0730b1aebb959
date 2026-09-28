@@ -1,0 +1,56 @@
+paimon-python/pypaimon/tests/vector_search_filter_test.py
+  s_7d3df0b183b9ff::t_782f93197cf437 2927,2929-2930,2934
+  s_7d3df0b183b9ff::t_f26e5539fcb651 3644-3659,3661-3690,3692-3715,3717-3735,3737-3748
+  s_7d3df0b183b9ff::t_75dba585f4362b 3660,3691,3716,3736
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_7d3df0b183b9ff::t_cd3409a96ccddb 23
+  s_7d3df0b183b9ff::t_7899eb002cb01e 27
+  s_7d3df0b183b9ff::t_a6bd0385a224f4 127-130,140
+  s_7d3df0b183b9ff::t_56921f44b6ed1a 749
+  s_7d3df0b183b9ff::t_44cf3552232059 813
+  s_7d3df0b183b9ff::t_ae81d7103c3661 870,873,856,860-862,866,929-934,936-938,940-941,943-944
+  s_e38cb24a2f7471::t_ce4ff9b15d6d65 928,1379,1450,1457,1386,863,935,939,942,945,1461-1462,1468,1471,1477,1493,1497,1502,1515,1518,1520-1521,1525,1527,1546
+  s_6e433950f8988a::t_53c6bd446673c9 1451-1452
+  s_7d3df0b183b9ff::t_9b91056a28043f 1454,1375,1381-1385,1463-1467,1469-1470,1472-1476,1478-1492,1494-1496,1498-1501,1503-1514,1516,1519,1522,1524,1526,1536,1544,1547,1553,1559
+  s_75197a9cd72c9f::t_02521d7c6c6a7d 1556,1558
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "43b5f51d1501c94e093c24e7f8e0730b1aebb959",
+  "prompts": {},
+  "sessions": {
+    "s_6e433950f8988a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c0a9581-7033-4bc7-b0b1-fd44e4833e1f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Yi Wang <connorwang@live.com>"
+    },
+    "s_75197a9cd72c9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c53f03bb-3ea7-4212-9373-7e2b88cce36a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    },
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    },
+    "s_e38cb24a2f7471": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a97f76e-f92c-4987-9d2e-840d8603fe42",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yiwang51 <yiwang51@trip.com>"
+    }
+  }
+}
