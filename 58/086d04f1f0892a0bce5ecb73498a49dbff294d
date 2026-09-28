@@ -1,0 +1,43 @@
+paimon-python/pypaimon/tests/batch_vector_raw_scan_test.py
+  s_4bc55070824910::t_94df28e452bb7a 69,73,75
+  s_4bc55070824910::t_2bf5ec4fddcda6 64,74,76-83,85-91,108-127
+  s_4bc55070824910::t_d08539bc5a757d 102-103
+  s_4bc55070824910::t_087da1dd849c14 105
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_4bc55070824910::t_3127637ce9e991 1294-1306,1335-1339
+  s_4bc55070824910::t_886b1718b90bd9 813,825
+  s_4bc55070824910::t_f88e35341d11e5 801-802
+  s_4bc55070824910::t_0760a2004c9fe7 1281
+  s_4bc55070824910::t_acefd378298df2 24
+  s_4bc55070824910::t_3be77936abf0dd 782-788
+  s_4bc55070824910::t_89d32195838290 747-752
+  s_4bc55070824910::t_000cde08e4a360 1450,1452,1454,1458
+  s_7d3df0b183b9ff::t_ae81d7103c3661 814-815,817-819,821-822,824
+  s_4bc55070824910::t_1ec5349599e582 1319,1321,1323,1325
+paimon-python/pypaimon/tests/vector_search_filter_test.py
+  s_4bc55070824910::t_468cd7c301495d 2929
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "58086d04f1f0892a0bce5ecb73498a49dbff294d",
+  "prompts": {},
+  "sessions": {
+    "s_4bc55070824910": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e330bdd1-0ee9-45ad-8b49-baaaf4aad5d9",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Yi Wang <connorwang@live.com>"
+    },
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
