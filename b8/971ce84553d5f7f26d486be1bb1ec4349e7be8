@@ -1,0 +1,54 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_7d3df0b183b9ff::t_cd3409a96ccddb 21
+  s_7d3df0b183b9ff::t_7899eb002cb01e 23
+  s_7d3df0b183b9ff::t_a6bd0385a224f4 91-94,103
+  s_7d3df0b183b9ff::t_56921f44b6ed1a 562
+  s_7d3df0b183b9ff::t_44cf3552232059 625
+  s_7d3df0b183b9ff::t_ae81d7103c3661 680,668,672-674,678,681-686,688-690,692-693,695-696
+  s_6e433950f8988a::t_53c6bd446673c9 1035-1037
+  s_7d3df0b183b9ff::t_9b91056a28043f 1039,960,966-970,1048-1052,1054-1055,1057-1061,1063-1077,1079-1081,1083-1086,1088-1099,1101,1104,1107,1109,1112,1117,1119,1147,1160
+  s_75197a9cd72c9f::t_02521d7c6c6a7d 1042,1113
+  s_e38cb24a2f7471::t_ce4ff9b15d6d65 971,675,687,691,694,697,1046-1047,1053,1056,1062,1078,1082,1087,1100,1103,1105-1106,1110,1114,1118,1111,1120-1123,1138,1140-1146,1148-1151,1157-1159
+  s_e38cb24a2f7471::t_ec421580d976de 95-97
+  s_e38cb24a2f7471::t_897681613c7886 1116,1125-1128,1134-1137,1139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "b8971ce84553d5f7f26d486be1bb1ec4349e7be8",
+  "prompts": {},
+  "sessions": {
+    "s_6e433950f8988a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c0a9581-7033-4bc7-b0b1-fd44e4833e1f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Yi Wang <connorwang@live.com>"
+    },
+    "s_75197a9cd72c9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c53f03bb-3ea7-4212-9373-7e2b88cce36a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    },
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    },
+    "s_e38cb24a2f7471": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a97f76e-f92c-4987-9d2e-840d8603fe42",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yiwang51 <yiwang51@trip.com>"
+    }
+  }
+}

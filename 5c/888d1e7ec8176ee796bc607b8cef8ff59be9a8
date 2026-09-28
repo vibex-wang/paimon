@@ -1,0 +1,56 @@
+paimon-python/pypaimon/table/source/vector_search_read.py
+  s_7d3df0b183b9ff::t_cd3409a96ccddb 21
+  s_7d3df0b183b9ff::t_7899eb002cb01e 23
+  s_7d3df0b183b9ff::t_a6bd0385a224f4 91-94,104
+  s_7d3df0b183b9ff::t_56921f44b6ed1a 563
+  s_7d3df0b183b9ff::t_44cf3552232059 626
+  s_7d3df0b183b9ff::t_ae81d7103c3661 681,669,673-675,679,682-687,689-691,693-694,696-697
+  s_6e433950f8988a::t_53c6bd446673c9 1036-1038
+  s_7d3df0b183b9ff::t_9b91056a28043f 1040,961,967-971,1049-1053,1055-1056,1058-1062,1064-1078,1080-1082,1084-1087,1089-1100,1102,1105,1108,1110,1112,1122,1130,1133,1139,1145
+  s_75197a9cd72c9f::t_02521d7c6c6a7d 1043,1142,1144
+  s_e38cb24a2f7471::t_ce4ff9b15d6d65 972,676,688,692,695,698,1047-1048,1054,1057,1063,1079,1083,1088,1101,1104,1106-1107,1111,1113,1132
+paimon-python/pypaimon/tests/vector_search_filter_test.py
+  s_7d3df0b183b9ff::t_782f93197cf437 2913,2915-2916,2920
+  s_7d3df0b183b9ff::t_f26e5539fcb651 3570-3585,3587-3616,3618-3641,3643-3661,3663-3674
+  s_7d3df0b183b9ff::t_75dba585f4362b 3586,3617,3642,3662
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "5c888d1e7ec8176ee796bc607b8cef8ff59be9a8",
+  "prompts": {},
+  "sessions": {
+    "s_6e433950f8988a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c0a9581-7033-4bc7-b0b1-fd44e4833e1f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Yi Wang <connorwang@live.com>"
+    },
+    "s_75197a9cd72c9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c53f03bb-3ea7-4212-9373-7e2b88cce36a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    },
+    "s_7d3df0b183b9ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a572d31d-9ce3-4484-b888-af1f13ed5f40",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null
+    },
+    "s_e38cb24a2f7471": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a97f76e-f92c-4987-9d2e-840d8603fe42",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yiwang51 <yiwang51@trip.com>"
+    }
+  }
+}
